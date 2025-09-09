@@ -26,7 +26,7 @@ postman/
 
 For detailed API documentation, visit the official page:
 
-- [Simple Book API Documentation]([https://simple-books-api.glitch.me/](https://simple-books-api.click/status))  
+- [Simple Book API Documentation]([https://simple-books-api.glitch.me/](https://simple-books-api.click/status)
 
 
 ---

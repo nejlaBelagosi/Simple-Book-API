@@ -20,6 +20,7 @@ postman/
 │ └─ Simple Book API.postman_test_run.json
 └─ collections/
 └─ 48284099-87c29c06-4e8a-4178-9a47-b9a4d6407ed4.json
+└─ Tests
 ```
 
 ## 📖 API Documentation
